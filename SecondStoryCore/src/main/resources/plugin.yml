@@ -1,0 +1,21 @@
+name: SecondStoryCore
+version: '1.0'
+main: me.syari.sec_story.paper.core.Main
+author: sya_ri
+depend:
+  - SecondStoryLibrary
+  - MythicMobs
+  - CrackShot
+  - CrackShotPlus
+  - Magic
+  - Citizens
+  - Votifier
+  - ProtocolLib
+  - LibsDisguises
+  - Multiverse-Core
+  - FastAsyncWorldEdit
+  - MyPet
+  - CoreProtect
+  - MythicArtifacts
+softdepend:
+  - MobArena

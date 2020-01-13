@@ -1,0 +1,7 @@
+name: SecondStoryLibrary
+version: '1.0'
+main: me.syari.sec_story.paper.library.Main
+author: sya_ri
+depend:
+  - NBTAPI
+  - FastAsyncWorldEdit

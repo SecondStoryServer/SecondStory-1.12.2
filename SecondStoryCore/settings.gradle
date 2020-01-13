@@ -1,0 +1,4 @@
+rootProject.name = 'SecondStoryCore'
+
+include("SecondStoryLibrary")
+project(":SecondStoryLibrary").projectDir = file("C:\\Folder\\SecondStory\\plugin\\paper\\1.12.2\\SecondStoryLibrary")
